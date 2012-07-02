@@ -1,0 +1,2219 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "scenarioCommitCount": 367,
+  "scenarioCommits": [
+    {
+      "scenarioAuthorDate": "2012-07-05T08:41:21+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 0
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T10:46:18+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 1
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T13:40:53+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 2
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T15:33:54+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 3
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T20:38:12+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 4
+    },
+    {
+      "scenarioAuthorDate": "2012-07-07T14:08:34+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 5
+    },
+    {
+      "scenarioAuthorDate": "2012-07-09T18:16:12+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 6
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T10:24:14+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 7
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T14:33:54+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 8
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T22:05:04+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 9
+    },
+    {
+      "scenarioAuthorDate": "2012-07-14T15:39:45+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 10
+    },
+    {
+      "scenarioAuthorDate": "2012-07-15T10:32:28+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 11
+    },
+    {
+      "scenarioAuthorDate": "2012-07-18T12:53:50+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 12
+    },
+    {
+      "scenarioAuthorDate": "2012-07-20T11:18:00+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 13
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T09:37:16+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 14
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T12:26:58+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 15
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T14:09:24+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 16
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T17:30:37+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 17
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T20:39:49+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 18
+    },
+    {
+      "scenarioAuthorDate": "2012-07-25T08:27:22+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 19
+    },
+    {
+      "scenarioAuthorDate": "2012-07-25T15:35:56+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 20
+    },
+    {
+      "scenarioAuthorDate": "2012-07-25T21:30:31+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 21
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T09:37:35+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 22
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T16:58:38+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 23
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T19:59:29+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 24
+    },
+    {
+      "scenarioAuthorDate": "2012-07-28T22:38:53+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 25
+    },
+    {
+      "scenarioAuthorDate": "2012-07-30T14:41:33+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 26
+    },
+    {
+      "scenarioAuthorDate": "2012-07-31T09:01:26+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 27
+    },
+    {
+      "scenarioAuthorDate": "2012-07-31T18:30:24+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 28
+    },
+    {
+      "scenarioAuthorDate": "2012-08-01T21:44:38+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 29
+    },
+    {
+      "scenarioAuthorDate": "2012-08-02T20:02:05+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 30
+    },
+    {
+      "scenarioAuthorDate": "2012-08-03T14:37:03+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 31
+    },
+    {
+      "scenarioAuthorDate": "2012-08-03T21:17:22+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 32
+    },
+    {
+      "scenarioAuthorDate": "2012-08-05T18:40:30+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 33
+    },
+    {
+      "scenarioAuthorDate": "2012-08-07T17:12:13+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 34
+    },
+    {
+      "scenarioAuthorDate": "2012-08-09T12:30:52+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 35
+    },
+    {
+      "scenarioAuthorDate": "2012-08-10T15:36:31+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 36
+    },
+    {
+      "scenarioAuthorDate": "2012-08-10T20:32:28+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 37
+    },
+    {
+      "scenarioAuthorDate": "2012-08-13T13:10:17+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 38
+    },
+    {
+      "scenarioAuthorDate": "2012-08-14T13:42:34+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 39
+    },
+    {
+      "scenarioAuthorDate": "2012-08-15T18:49:43+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 40
+    },
+    {
+      "scenarioAuthorDate": "2012-08-16T08:03:12+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 41
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T09:04:26+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 42
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T12:50:31+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 43
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T16:38:56+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 44
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T18:59:07+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 45
+    },
+    {
+      "scenarioAuthorDate": "2012-08-22T08:25:35+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 46
+    },
+    {
+      "scenarioAuthorDate": "2012-08-24T10:25:47+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 47
+    },
+    {
+      "scenarioAuthorDate": "2012-08-24T20:13:37+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 48
+    },
+    {
+      "scenarioAuthorDate": "2012-08-25T19:12:59+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 49
+    },
+    {
+      "scenarioAuthorDate": "2012-08-26T19:29:30+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 50
+    },
+    {
+      "scenarioAuthorDate": "2012-08-30T11:51:04+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 51
+    },
+    {
+      "scenarioAuthorDate": "2012-08-30T16:39:53+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 52
+    },
+    {
+      "scenarioAuthorDate": "2012-08-31T14:03:05+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 53
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T09:05:19+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 54
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T13:07:39+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 55
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T16:14:18+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 56
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T19:39:53+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 57
+    },
+    {
+      "scenarioAuthorDate": "2012-09-02T10:21:45+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 58
+    },
+    {
+      "scenarioAuthorDate": "2012-09-02T17:41:15+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 59
+    },
+    {
+      "scenarioAuthorDate": "2012-09-03T15:02:41+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 60
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T09:07:25+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 61
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T10:29:38+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 62
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T13:04:21+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 63
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T20:02:22+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 64
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T22:02:18+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 65
+    },
+    {
+      "scenarioAuthorDate": "2012-09-08T12:26:05+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 66
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T09:55:07+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 67
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T13:17:26+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 68
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T16:58:32+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 69
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T20:44:50+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 70
+    },
+    {
+      "scenarioAuthorDate": "2012-09-11T09:48:05+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 71
+    },
+    {
+      "scenarioAuthorDate": "2012-09-13T08:09:28+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 72
+    },
+    {
+      "scenarioAuthorDate": "2012-09-15T10:35:00+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 73
+    },
+    {
+      "scenarioAuthorDate": "2012-09-16T17:02:18+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 74
+    },
+    {
+      "scenarioAuthorDate": "2012-09-18T11:27:03+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 75
+    },
+    {
+      "scenarioAuthorDate": "2012-09-18T18:56:43+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 76
+    },
+    {
+      "scenarioAuthorDate": "2012-09-19T09:16:20+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 77
+    },
+    {
+      "scenarioAuthorDate": "2012-09-22T20:06:45+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 78
+    },
+    {
+      "scenarioAuthorDate": "2012-09-25T11:11:46+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 79
+    },
+    {
+      "scenarioAuthorDate": "2012-09-26T10:05:52+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 80
+    },
+    {
+      "scenarioAuthorDate": "2012-09-26T18:37:35+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 81
+    },
+    {
+      "scenarioAuthorDate": "2012-09-27T15:29:59+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 82
+    },
+    {
+      "scenarioAuthorDate": "2012-09-27T20:10:57+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 83
+    },
+    {
+      "scenarioAuthorDate": "2012-09-28T13:25:51+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 84
+    },
+    {
+      "scenarioAuthorDate": "2012-10-01T11:18:36+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 85
+    },
+    {
+      "scenarioAuthorDate": "2012-10-01T16:19:40+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 86
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T08:09:08+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 87
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T09:55:41+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 88
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T15:25:21+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 89
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T18:28:20+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 90
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T20:43:21+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 91
+    },
+    {
+      "scenarioAuthorDate": "2012-10-03T09:26:21+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 92
+    },
+    {
+      "scenarioAuthorDate": "2012-10-03T22:04:58+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 93
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T12:50:07+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 94
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T18:05:57+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 95
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T20:40:14+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 96
+    },
+    {
+      "scenarioAuthorDate": "2012-10-07T13:16:40+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 97
+    },
+    {
+      "scenarioAuthorDate": "2012-10-07T18:00:14+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 98
+    },
+    {
+      "scenarioAuthorDate": "2012-10-07T22:36:42+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 99
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T12:32:02+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 100
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T20:12:50+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 101
+    },
+    {
+      "scenarioAuthorDate": "2012-10-11T08:43:33+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 102
+    },
+    {
+      "scenarioAuthorDate": "2012-10-11T16:01:48+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 103
+    },
+    {
+      "scenarioAuthorDate": "2012-10-12T18:53:06+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 104
+    },
+    {
+      "scenarioAuthorDate": "2012-10-13T18:32:04+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 105
+    },
+    {
+      "scenarioAuthorDate": "2012-10-14T11:57:26+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 106
+    },
+    {
+      "scenarioAuthorDate": "2012-10-14T19:04:52+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 107
+    },
+    {
+      "scenarioAuthorDate": "2012-10-15T13:18:48+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 108
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T09:29:55+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 109
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T14:38:55+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 110
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T19:01:56+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 111
+    },
+    {
+      "scenarioAuthorDate": "2012-10-18T16:24:03+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 112
+    },
+    {
+      "scenarioAuthorDate": "2012-10-19T17:18:41+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 113
+    },
+    {
+      "scenarioAuthorDate": "2012-10-21T15:38:01+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 114
+    },
+    {
+      "scenarioAuthorDate": "2012-10-22T21:58:18+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 115
+    },
+    {
+      "scenarioAuthorDate": "2012-10-23T10:59:27+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 116
+    },
+    {
+      "scenarioAuthorDate": "2012-10-23T18:23:29+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 117
+    },
+    {
+      "scenarioAuthorDate": "2012-10-25T08:12:42+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 118
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T08:02:30+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 119
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T09:50:33+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 120
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T12:16:35+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 121
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T15:16:59+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 122
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T18:22:15+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 123
+    },
+    {
+      "scenarioAuthorDate": "2012-10-27T08:28:00+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 124
+    },
+    {
+      "scenarioAuthorDate": "2012-10-28T19:47:50+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 125
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T11:30:09+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 126
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T17:19:53+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 127
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T20:53:09+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 128
+    },
+    {
+      "scenarioAuthorDate": "2012-10-30T11:22:19+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 129
+    },
+    {
+      "scenarioAuthorDate": "2012-10-30T21:54:45+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 130
+    },
+    {
+      "scenarioAuthorDate": "2012-11-02T21:42:49+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 131
+    },
+    {
+      "scenarioAuthorDate": "2012-11-03T17:42:12+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 132
+    },
+    {
+      "scenarioAuthorDate": "2012-11-04T14:26:26+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 133
+    },
+    {
+      "scenarioAuthorDate": "2012-11-06T13:27:55+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 134
+    },
+    {
+      "scenarioAuthorDate": "2012-11-07T10:16:28+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 135
+    },
+    {
+      "scenarioAuthorDate": "2012-11-07T20:18:06+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 136
+    },
+    {
+      "scenarioAuthorDate": "2012-11-10T21:51:31+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 137
+    },
+    {
+      "scenarioAuthorDate": "2012-11-13T08:53:42+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 138
+    },
+    {
+      "scenarioAuthorDate": "2012-11-13T21:11:32+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 139
+    },
+    {
+      "scenarioAuthorDate": "2012-11-16T22:23:39+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 140
+    },
+    {
+      "scenarioAuthorDate": "2012-11-21T10:45:44+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 141
+    },
+    {
+      "scenarioAuthorDate": "2012-11-21T17:58:57+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 142
+    },
+    {
+      "scenarioAuthorDate": "2012-11-24T11:18:06+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 143
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T08:47:17+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 144
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T13:09:40+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 145
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T14:16:05+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 146
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T16:24:57+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 147
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T19:47:14+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 148
+    },
+    {
+      "scenarioAuthorDate": "2012-11-28T10:29:44+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 149
+    },
+    {
+      "scenarioAuthorDate": "2012-11-28T19:39:54+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 150
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T13:16:15+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 151
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T17:03:18+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 152
+    },
+    {
+      "scenarioAuthorDate": "2012-12-02T09:32:11+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 153
+    },
+    {
+      "scenarioAuthorDate": "2012-12-02T21:55:10+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 154
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T14:23:35+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 155
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T19:06:16+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 156
+    },
+    {
+      "scenarioAuthorDate": "2012-12-06T08:08:56+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 157
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T13:10:54+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 158
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T17:13:05+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 159
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T21:40:20+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 160
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T11:07:34+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 161
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T17:54:46+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 162
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T22:20:27+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 163
+    },
+    {
+      "scenarioAuthorDate": "2012-12-16T17:38:23+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 164
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T09:08:38+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 165
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T10:42:38+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 166
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T12:52:43+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 167
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T16:59:38+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 168
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T21:01:26+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 169
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T08:48:50+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 170
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T10:14:41+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 171
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T17:05:48+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 172
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T18:55:50+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 173
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T21:29:07+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 174
+    },
+    {
+      "scenarioAuthorDate": "2012-12-25T11:38:50+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 175
+    },
+    {
+      "scenarioAuthorDate": "2012-12-26T19:01:10+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 176
+    },
+    {
+      "scenarioAuthorDate": "2012-12-27T21:20:46+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 177
+    },
+    {
+      "scenarioAuthorDate": "2012-12-29T12:02:58+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 178
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T08:16:55+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 179
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T11:22:02+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 180
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T14:53:32+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 181
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T20:00:40+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 182
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T22:55:20+00:00",
+      "year": 2012,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 183
+    },
+    {
+      "scenarioAuthorDate": "2013-01-05T19:02:37+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 184
+    },
+    {
+      "scenarioAuthorDate": "2013-01-08T09:09:02+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 185
+    },
+    {
+      "scenarioAuthorDate": "2013-01-09T10:41:33+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 186
+    },
+    {
+      "scenarioAuthorDate": "2013-01-11T14:47:09+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 187
+    },
+    {
+      "scenarioAuthorDate": "2013-01-15T10:34:03+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 188
+    },
+    {
+      "scenarioAuthorDate": "2013-01-17T20:15:33+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 189
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T11:14:09+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 190
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T19:01:22+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 191
+    },
+    {
+      "scenarioAuthorDate": "2013-01-22T08:32:56+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 192
+    },
+    {
+      "scenarioAuthorDate": "2013-01-24T11:00:11+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 193
+    },
+    {
+      "scenarioAuthorDate": "2013-01-30T22:43:35+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 194
+    },
+    {
+      "scenarioAuthorDate": "2013-02-04T11:07:25+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 195
+    },
+    {
+      "scenarioAuthorDate": "2013-02-15T14:26:47+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 196
+    },
+    {
+      "scenarioAuthorDate": "2013-02-16T08:24:08+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 197
+    },
+    {
+      "scenarioAuthorDate": "2013-02-16T13:57:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 198
+    },
+    {
+      "scenarioAuthorDate": "2013-02-16T22:33:49+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 199
+    },
+    {
+      "scenarioAuthorDate": "2013-02-18T17:54:42+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 200
+    },
+    {
+      "scenarioAuthorDate": "2013-02-20T18:32:45+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 201
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T14:19:51+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 202
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T17:05:48+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 203
+    },
+    {
+      "scenarioAuthorDate": "2013-02-22T11:23:01+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 204
+    },
+    {
+      "scenarioAuthorDate": "2013-02-23T08:51:39+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 205
+    },
+    {
+      "scenarioAuthorDate": "2013-02-23T13:34:45+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 206
+    },
+    {
+      "scenarioAuthorDate": "2013-02-24T18:08:00+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 207
+    },
+    {
+      "scenarioAuthorDate": "2013-03-03T12:35:39+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 208
+    },
+    {
+      "scenarioAuthorDate": "2013-03-03T20:54:53+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 209
+    },
+    {
+      "scenarioAuthorDate": "2013-03-06T10:14:55+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 210
+    },
+    {
+      "scenarioAuthorDate": "2013-03-06T19:18:25+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 211
+    },
+    {
+      "scenarioAuthorDate": "2013-03-10T10:18:52+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 212
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T08:15:18+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 213
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T11:40:39+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 214
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T20:01:52+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 215
+    },
+    {
+      "scenarioAuthorDate": "2013-03-15T08:15:31+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 216
+    },
+    {
+      "scenarioAuthorDate": "2013-03-16T22:47:01+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 217
+    },
+    {
+      "scenarioAuthorDate": "2013-03-20T15:10:22+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 218
+    },
+    {
+      "scenarioAuthorDate": "2013-03-21T20:40:13+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 219
+    },
+    {
+      "scenarioAuthorDate": "2013-03-23T09:08:50+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 220
+    },
+    {
+      "scenarioAuthorDate": "2013-03-24T10:38:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 221
+    },
+    {
+      "scenarioAuthorDate": "2013-03-27T16:47:03+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 222
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T09:38:24+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 223
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T14:49:43+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 224
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T19:00:35+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 225
+    },
+    {
+      "scenarioAuthorDate": "2013-04-01T14:53:29+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 226
+    },
+    {
+      "scenarioAuthorDate": "2013-04-02T17:09:18+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 227
+    },
+    {
+      "scenarioAuthorDate": "2013-04-05T08:00:43+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 228
+    },
+    {
+      "scenarioAuthorDate": "2013-04-07T13:34:47+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 229
+    },
+    {
+      "scenarioAuthorDate": "2013-04-09T18:21:38+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 230
+    },
+    {
+      "scenarioAuthorDate": "2013-04-11T17:55:00+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 231
+    },
+    {
+      "scenarioAuthorDate": "2013-04-12T10:44:01+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 232
+    },
+    {
+      "scenarioAuthorDate": "2013-04-12T17:42:45+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 233
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T08:44:26+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 234
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T16:35:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 235
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T22:49:10+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 236
+    },
+    {
+      "scenarioAuthorDate": "2013-04-19T12:05:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 237
+    },
+    {
+      "scenarioAuthorDate": "2013-04-22T08:00:04+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 238
+    },
+    {
+      "scenarioAuthorDate": "2013-04-28T17:29:25+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 239
+    },
+    {
+      "scenarioAuthorDate": "2013-04-30T14:28:56+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 240
+    },
+    {
+      "scenarioAuthorDate": "2013-05-01T18:27:55+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 241
+    },
+    {
+      "scenarioAuthorDate": "2013-05-05T11:16:19+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 242
+    },
+    {
+      "scenarioAuthorDate": "2013-05-07T18:44:17+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 243
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T10:19:58+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 244
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T14:02:15+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 245
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T18:54:43+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 246
+    },
+    {
+      "scenarioAuthorDate": "2013-05-13T08:42:15+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 247
+    },
+    {
+      "scenarioAuthorDate": "2013-05-15T20:00:49+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 248
+    },
+    {
+      "scenarioAuthorDate": "2013-05-17T14:20:39+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 249
+    },
+    {
+      "scenarioAuthorDate": "2013-05-18T21:35:35+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 250
+    },
+    {
+      "scenarioAuthorDate": "2013-05-19T19:12:38+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 251
+    },
+    {
+      "scenarioAuthorDate": "2013-05-20T20:10:10+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 252
+    },
+    {
+      "scenarioAuthorDate": "2013-05-26T09:10:52+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 253
+    },
+    {
+      "scenarioAuthorDate": "2013-05-27T08:55:22+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 254
+    },
+    {
+      "scenarioAuthorDate": "2013-05-27T17:18:37+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 255
+    },
+    {
+      "scenarioAuthorDate": "2013-05-29T14:06:01+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 256
+    },
+    {
+      "scenarioAuthorDate": "2013-05-29T18:33:28+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 257
+    },
+    {
+      "scenarioAuthorDate": "2013-05-30T15:00:34+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 258
+    },
+    {
+      "scenarioAuthorDate": "2013-06-01T09:09:00+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 259
+    },
+    {
+      "scenarioAuthorDate": "2013-06-03T16:53:29+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 260
+    },
+    {
+      "scenarioAuthorDate": "2013-06-09T12:34:38+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 261
+    },
+    {
+      "scenarioAuthorDate": "2013-06-16T10:21:31+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 262
+    },
+    {
+      "scenarioAuthorDate": "2013-06-21T12:12:13+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 263
+    },
+    {
+      "scenarioAuthorDate": "2013-06-21T21:45:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 264
+    },
+    {
+      "scenarioAuthorDate": "2013-06-28T09:55:30+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 265
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T10:17:58+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 266
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T13:55:41+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 267
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T18:33:50+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 268
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T20:53:48+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 269
+    },
+    {
+      "scenarioAuthorDate": "2013-07-06T11:12:45+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 270
+    },
+    {
+      "scenarioAuthorDate": "2013-07-07T11:49:10+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 271
+    },
+    {
+      "scenarioAuthorDate": "2013-07-08T21:09:14+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 272
+    },
+    {
+      "scenarioAuthorDate": "2013-07-11T09:01:15+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 273
+    },
+    {
+      "scenarioAuthorDate": "2013-07-13T10:00:12+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 274
+    },
+    {
+      "scenarioAuthorDate": "2013-07-13T14:26:20+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 275
+    },
+    {
+      "scenarioAuthorDate": "2013-07-17T13:39:42+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 276
+    },
+    {
+      "scenarioAuthorDate": "2013-07-18T14:33:03+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 277
+    },
+    {
+      "scenarioAuthorDate": "2013-07-18T22:34:34+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 278
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T12:02:15+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 279
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T15:39:55+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 280
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T20:00:32+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 281
+    },
+    {
+      "scenarioAuthorDate": "2013-07-22T16:22:25+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 282
+    },
+    {
+      "scenarioAuthorDate": "2013-07-24T19:52:46+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 283
+    },
+    {
+      "scenarioAuthorDate": "2013-07-25T21:33:21+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 284
+    },
+    {
+      "scenarioAuthorDate": "2013-07-28T15:52:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 285
+    },
+    {
+      "scenarioAuthorDate": "2013-07-30T09:45:16+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 286
+    },
+    {
+      "scenarioAuthorDate": "2013-08-03T08:51:40+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 287
+    },
+    {
+      "scenarioAuthorDate": "2013-08-07T16:06:15+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 288
+    },
+    {
+      "scenarioAuthorDate": "2013-08-09T16:59:43+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 289
+    },
+    {
+      "scenarioAuthorDate": "2013-08-15T09:21:30+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 290
+    },
+    {
+      "scenarioAuthorDate": "2013-08-15T17:02:13+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 291
+    },
+    {
+      "scenarioAuthorDate": "2013-08-15T22:54:40+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 292
+    },
+    {
+      "scenarioAuthorDate": "2013-08-18T19:16:59+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 293
+    },
+    {
+      "scenarioAuthorDate": "2013-08-23T12:08:24+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 294
+    },
+    {
+      "scenarioAuthorDate": "2013-08-24T12:15:01+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 295
+    },
+    {
+      "scenarioAuthorDate": "2013-08-24T17:15:56+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 296
+    },
+    {
+      "scenarioAuthorDate": "2013-08-26T10:22:30+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 297
+    },
+    {
+      "scenarioAuthorDate": "2013-08-27T10:25:04+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 298
+    },
+    {
+      "scenarioAuthorDate": "2013-08-27T20:07:42+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 299
+    },
+    {
+      "scenarioAuthorDate": "2013-08-30T14:45:03+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 300
+    },
+    {
+      "scenarioAuthorDate": "2013-09-03T14:00:01+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 301
+    },
+    {
+      "scenarioAuthorDate": "2013-09-03T21:40:27+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 302
+    },
+    {
+      "scenarioAuthorDate": "2013-09-05T10:52:38+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 303
+    },
+    {
+      "scenarioAuthorDate": "2013-09-05T17:11:31+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 304
+    },
+    {
+      "scenarioAuthorDate": "2013-09-06T21:45:54+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 305
+    },
+    {
+      "scenarioAuthorDate": "2013-09-08T16:43:36+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 306
+    },
+    {
+      "scenarioAuthorDate": "2013-09-09T09:14:18+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 307
+    },
+    {
+      "scenarioAuthorDate": "2013-09-09T20:15:15+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 308
+    },
+    {
+      "scenarioAuthorDate": "2013-09-12T08:22:04+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 309
+    },
+    {
+      "scenarioAuthorDate": "2013-09-12T19:31:04+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 310
+    },
+    {
+      "scenarioAuthorDate": "2013-09-14T17:05:47+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 311
+    },
+    {
+      "scenarioAuthorDate": "2013-09-15T11:48:07+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 312
+    },
+    {
+      "scenarioAuthorDate": "2013-09-16T09:41:09+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 313
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T09:34:29+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 314
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T13:49:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 315
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T17:06:07+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 316
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T19:46:48+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 317
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T22:22:37+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 318
+    },
+    {
+      "scenarioAuthorDate": "2013-09-21T15:59:28+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 319
+    },
+    {
+      "scenarioAuthorDate": "2013-09-23T08:39:50+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 320
+    },
+    {
+      "scenarioAuthorDate": "2013-09-25T18:04:07+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 321
+    },
+    {
+      "scenarioAuthorDate": "2013-09-28T11:51:17+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 322
+    },
+    {
+      "scenarioAuthorDate": "2013-09-30T12:51:43+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 323
+    },
+    {
+      "scenarioAuthorDate": "2013-09-30T22:59:12+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 324
+    },
+    {
+      "scenarioAuthorDate": "2013-10-03T09:58:57+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 325
+    },
+    {
+      "scenarioAuthorDate": "2013-10-03T20:18:47+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 326
+    },
+    {
+      "scenarioAuthorDate": "2013-10-04T17:58:11+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 327
+    },
+    {
+      "scenarioAuthorDate": "2013-10-10T19:52:03+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 328
+    },
+    {
+      "scenarioAuthorDate": "2013-10-13T17:27:47+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 329
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T11:55:16+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 330
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T19:02:19+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 331
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T22:37:59+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 332
+    },
+    {
+      "scenarioAuthorDate": "2013-10-20T10:53:32+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 333
+    },
+    {
+      "scenarioAuthorDate": "2013-10-24T17:26:22+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 334
+    },
+    {
+      "scenarioAuthorDate": "2013-10-26T19:59:09+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 335
+    },
+    {
+      "scenarioAuthorDate": "2013-10-31T10:10:50+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 336
+    },
+    {
+      "scenarioAuthorDate": "2013-10-31T21:18:43+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 337
+    },
+    {
+      "scenarioAuthorDate": "2013-11-03T15:28:44+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 338
+    },
+    {
+      "scenarioAuthorDate": "2013-11-06T09:04:36+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 339
+    },
+    {
+      "scenarioAuthorDate": "2013-11-08T09:28:04+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 340
+    },
+    {
+      "scenarioAuthorDate": "2013-11-09T08:16:52+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 341
+    },
+    {
+      "scenarioAuthorDate": "2013-11-14T17:12:05+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 342
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T09:01:08+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 343
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T11:52:32+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 344
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T17:49:50+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 345
+    },
+    {
+      "scenarioAuthorDate": "2013-11-24T09:38:54+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 346
+    },
+    {
+      "scenarioAuthorDate": "2013-11-27T14:25:46+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 347
+    },
+    {
+      "scenarioAuthorDate": "2013-11-28T16:00:37+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 348
+    },
+    {
+      "scenarioAuthorDate": "2013-11-30T18:55:23+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 349
+    },
+    {
+      "scenarioAuthorDate": "2013-12-03T22:08:45+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 350
+    },
+    {
+      "scenarioAuthorDate": "2013-12-08T19:28:21+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 351
+    },
+    {
+      "scenarioAuthorDate": "2013-12-10T21:58:04+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 352
+    },
+    {
+      "scenarioAuthorDate": "2013-12-13T12:44:10+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 353
+    },
+    {
+      "scenarioAuthorDate": "2013-12-14T16:46:09+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 354
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T09:17:58+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 355
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T17:53:00+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 356
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T21:34:10+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 357
+    },
+    {
+      "scenarioAuthorDate": "2013-12-17T10:04:24+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 358
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T10:43:24+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 359
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T17:48:12+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 360
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T20:49:11+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 361
+    },
+    {
+      "scenarioAuthorDate": "2013-12-25T16:00:55+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 362
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T09:59:47+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 363
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T14:16:07+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 364
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T17:12:18+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 365
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T22:13:57+00:00",
+      "year": 2013,
+      "repository": "access-log-simulation",
+      "fixtureIndex": 366
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYears": [
+      2012,
+      2013
+    ],
+    "actualPresentationUpdateAt": "2026-11-05T13:19:47.798358+00:00",
+    "allAuthorHeadersPreserved": true,
+    "fixtureCommittersMatchIllustrativeAuthorDates": true
+  }
+}
