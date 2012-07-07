@@ -3,3 +3,4 @@
 {"expected_error": true, "id": "synthetic-log-0002", "input": "2013-03-03T02:02:00Z get /sample/2/item/2 204 74"}
 {"expected_error": true, "id": "synthetic-log-0003", "input": "not-a-date DELETE /sample/3/item/3 301 111"}
 {"expected_error": true, "id": "synthetic-log-0004", "input": "2013-05-05T04:04:00Z HEAD not-a-path 400 148"}
+{"expected_error": true, "id": "synthetic-log-0005", "input": "2013-06-06T05:05:00Z GET /sample/5/item/5 404 185 extra-field"}
