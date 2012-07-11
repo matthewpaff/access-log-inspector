@@ -7,3 +7,4 @@
 {"expected": {"duration_ms": 222, "method": "POST", "path": "/sample/6/item/6", "status": 429, "timestamp": "2013-07-07T06:06:00Z"}, "id": "synthetic-log-0006", "input": "2013-07-07T06:06:00Z POST /sample/6/item/6 429 222"}
 {"expected": {"duration_ms": 259, "method": "PUT", "path": "/sample/0/item/7", "status": 500, "timestamp": "2013-08-08T07:07:00Z"}, "id": "synthetic-log-0007", "input": "2013-08-08T07:07:00Z PUT /sample/0/item/7 500 259"}
 {"expected": {"duration_ms": 296, "method": "DELETE", "path": "/sample/1/item/8", "status": 503, "timestamp": "2013-09-09T08:08:00Z"}, "id": "synthetic-log-0008", "input": "2013-09-09T08:08:00Z DELETE /sample/1/item/8 503 296"}
+{"expected": {"duration_ms": 333, "method": "HEAD", "path": "/sample/2/item/9", "status": 200, "timestamp": "2013-10-10T09:09:00Z"}, "id": "synthetic-log-0009", "input": "2013-10-10T09:09:00Z HEAD /sample/2/item/9 200 333"}
