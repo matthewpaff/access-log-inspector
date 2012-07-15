@@ -9,3 +9,4 @@
 {"expected": {"duration_ms": 296, "method": "DELETE", "path": "/sample/1/item/8", "status": 503, "timestamp": "2013-09-09T08:08:00Z"}, "id": "synthetic-log-0008", "input": "2013-09-09T08:08:00Z DELETE /sample/1/item/8 503 296"}
 {"expected": {"duration_ms": 333, "method": "HEAD", "path": "/sample/2/item/9", "status": 200, "timestamp": "2013-10-10T09:09:00Z"}, "id": "synthetic-log-0009", "input": "2013-10-10T09:09:00Z HEAD /sample/2/item/9 200 333"}
 {"expected": {"duration_ms": 370, "method": "GET", "path": "/sample/3/item/10", "status": 201, "timestamp": "2013-11-11T10:10:00Z"}, "id": "synthetic-log-0010", "input": "2013-11-11T10:10:00Z GET /sample/3/item/10 201 370"}
+{"expected_error": true, "id": "synthetic-log-0011", "input": "2013-12-12T11:11:00Z POST /sample/4/item/11 999 407"}
