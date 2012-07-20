@@ -11,3 +11,4 @@
 {"expected": {"duration_ms": 370, "method": "GET", "path": "/sample/3/item/10", "status": 201, "timestamp": "2013-11-11T10:10:00Z"}, "id": "synthetic-log-0010", "input": "2013-11-11T10:10:00Z GET /sample/3/item/10 201 370"}
 {"expected_error": true, "id": "synthetic-log-0011", "input": "2013-12-12T11:11:00Z POST /sample/4/item/11 999 407"}
 {"expected_error": true, "id": "synthetic-log-0012", "input": "2013-01-13T12:12:00Z PUT /sample/5/item/12 301 -2"}
+{"expected_error": true, "id": "synthetic-log-0013", "input": "2013-02-14T13:13:00Z get /sample/6/item/13 400 481"}
