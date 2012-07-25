@@ -17,3 +17,4 @@
 {"expected_error": true, "id": "synthetic-log-0016", "input": "2013-05-17T16:16:00Z POST /sample/2/item/16 500 592 extra-field"}
 {"expected": {"duration_ms": 629, "method": "PUT", "path": "/sample/3/item/17", "status": 503, "timestamp": "2013-06-18T17:17:00Z"}, "id": "synthetic-log-0017", "input": "2013-06-18T17:17:00Z PUT /sample/3/item/17 503 629"}
 {"expected": {"duration_ms": 666, "method": "DELETE", "path": "/sample/4/item/18", "status": 200, "timestamp": "2013-07-19T18:18:00Z"}, "id": "synthetic-log-0018", "input": "2013-07-19T18:18:00Z DELETE /sample/4/item/18 200 666"}
+{"expected": {"duration_ms": 703, "method": "HEAD", "path": "/sample/5/item/19", "status": 201, "timestamp": "2013-08-20T19:19:00Z"}, "id": "synthetic-log-0019", "input": "2013-08-20T19:19:00Z HEAD /sample/5/item/19 201 703"}
