@@ -22,3 +22,4 @@
 {"expected": {"duration_ms": 777, "method": "POST", "path": "/sample/0/item/21", "status": 301, "timestamp": "2013-10-22T21:21:00Z"}, "id": "synthetic-log-0021", "input": "2013-10-22T21:21:00Z POST /sample/0/item/21 301 777"}
 {"expected_error": true, "id": "synthetic-log-0022", "input": "2013-11-23T22:22:00Z PUT /sample/1/item/22 999 814"}
 {"expected_error": true, "id": "synthetic-log-0023", "input": "2013-12-24T23:23:00Z DELETE /sample/2/item/23 404 -2"}
+{"expected_error": true, "id": "synthetic-log-0024", "input": "2013-01-25T00:24:00Z get /sample/3/item/24 429 888"}
