@@ -24,3 +24,4 @@
 {"expected_error": true, "id": "synthetic-log-0023", "input": "2013-12-24T23:23:00Z DELETE /sample/2/item/23 404 -2"}
 {"expected_error": true, "id": "synthetic-log-0024", "input": "2013-01-25T00:24:00Z get /sample/3/item/24 429 888"}
 {"expected_error": true, "id": "synthetic-log-0025", "input": "not-a-date GET /sample/4/item/25 500 925"}
+{"expected_error": true, "id": "synthetic-log-0026", "input": "2013-03-27T02:26:00Z POST not-a-path 503 962"}
