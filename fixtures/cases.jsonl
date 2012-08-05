@@ -31,3 +31,4 @@
 {"expected": {"duration_ms": 1110, "method": "GET", "path": "/sample/2/item/30", "status": 301, "timestamp": "2013-07-03T06:30:00Z"}, "id": "synthetic-log-0030", "input": "2013-07-03T06:30:00Z GET /sample/2/item/30 301 1110"}
 {"expected": {"duration_ms": 1147, "method": "POST", "path": "/sample/3/item/31", "status": 400, "timestamp": "2013-08-04T07:31:00Z"}, "id": "synthetic-log-0031", "input": "2013-08-04T07:31:00Z POST /sample/3/item/31 400 1147"}
 {"expected": {"duration_ms": 1184, "method": "PUT", "path": "/sample/4/item/32", "status": 404, "timestamp": "2013-09-05T08:32:00Z"}, "id": "synthetic-log-0032", "input": "2013-09-05T08:32:00Z PUT /sample/4/item/32 404 1184"}
+{"expected_error": true, "id": "synthetic-log-0033", "input": "2013-10-06T09:33:00Z DELETE /sample/5/item/33 999 1221"}
