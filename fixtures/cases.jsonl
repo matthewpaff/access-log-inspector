@@ -39,3 +39,4 @@
 {"expected_error": true, "id": "synthetic-log-0038", "input": "2013-03-11T14:38:00Z DELETE /sample/3/item/38 204 1406 extra-field"}
 {"expected": {"duration_ms": 1443, "method": "HEAD", "path": "/sample/4/item/39", "status": 301, "timestamp": "2013-04-12T15:39:00Z"}, "id": "synthetic-log-0039", "input": "2013-04-12T15:39:00Z HEAD /sample/4/item/39 301 1443"}
 {"expected": {"duration_ms": 1480, "method": "GET", "path": "/sample/5/item/40", "status": 400, "timestamp": "2013-05-13T16:40:00Z"}, "id": "synthetic-log-0040", "input": "2013-05-13T16:40:00Z GET /sample/5/item/40 400 1480"}
+{"expected": {"duration_ms": 1517, "method": "POST", "path": "/sample/6/item/41", "status": 404, "timestamp": "2013-06-14T17:41:00Z"}, "id": "synthetic-log-0041", "input": "2013-06-14T17:41:00Z POST /sample/6/item/41 404 1517"}
