@@ -44,3 +44,4 @@
 {"expected": {"duration_ms": 1591, "method": "DELETE", "path": "/sample/1/item/43", "status": 500, "timestamp": "2013-08-16T19:43:00Z"}, "id": "synthetic-log-0043", "input": "2013-08-16T19:43:00Z DELETE /sample/1/item/43 500 1591"}
 {"expected_error": true, "id": "synthetic-log-0044", "input": "2013-09-17T20:44:00Z HEAD /sample/2/item/44 999 1628"}
 {"expected_error": true, "id": "synthetic-log-0045", "input": "2013-10-18T21:45:00Z GET /sample/3/item/45 200 -2"}
+{"expected_error": true, "id": "synthetic-log-0046", "input": "2013-11-19T22:46:00Z get /sample/4/item/46 201 1702"}
