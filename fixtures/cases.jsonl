@@ -47,3 +47,4 @@
 {"expected_error": true, "id": "synthetic-log-0046", "input": "2013-11-19T22:46:00Z get /sample/4/item/46 201 1702"}
 {"expected_error": true, "id": "synthetic-log-0047", "input": "not-a-date PUT /sample/5/item/47 204 1739"}
 {"expected_error": true, "id": "synthetic-log-0048", "input": "2013-01-21T00:48:00Z DELETE not-a-path 301 1776"}
+{"expected_error": true, "id": "synthetic-log-0049", "input": "2013-02-22T01:49:00Z HEAD /sample/0/item/49 400 1813 extra-field"}
