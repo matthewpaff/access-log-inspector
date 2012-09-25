@@ -77,3 +77,4 @@
 {"expected": {"duration_ms": 2812, "method": "POST", "path": "/sample/6/item/76", "status": 400, "timestamp": "2013-05-21T04:16:00Z"}, "id": "synthetic-log-0076", "input": "2013-05-21T04:16:00Z POST /sample/6/item/76 400 2812"}
 {"expected_error": true, "id": "synthetic-log-0077", "input": "2013-06-22T05:17:00Z PUT /sample/0/item/77 999 2849"}
 {"expected_error": true, "id": "synthetic-log-0078", "input": "2013-07-23T06:18:00Z DELETE /sample/1/item/78 429 -2"}
+{"expected_error": true, "id": "synthetic-log-0079", "input": "2013-08-24T07:19:00Z get /sample/2/item/79 500 2923"}
