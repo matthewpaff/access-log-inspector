@@ -89,3 +89,4 @@
 {"expected_error": true, "id": "synthetic-log-0088", "input": "2013-05-05T16:28:00Z DELETE /sample/4/item/88 999 3256"}
 {"expected_error": true, "id": "synthetic-log-0089", "input": "2013-06-06T17:29:00Z HEAD /sample/5/item/89 503 -2"}
 {"expected_error": true, "id": "synthetic-log-0090", "input": "2013-07-07T18:30:00Z get /sample/6/item/90 200 3330"}
+{"expected_error": true, "id": "synthetic-log-0091", "input": "not-a-date POST /sample/0/item/91 201 3367"}
