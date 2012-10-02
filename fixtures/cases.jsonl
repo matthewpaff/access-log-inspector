@@ -88,3 +88,4 @@
 {"expected": {"duration_ms": 3219, "method": "PUT", "path": "/sample/3/item/87", "status": 429, "timestamp": "2013-04-04T15:27:00Z"}, "id": "synthetic-log-0087", "input": "2013-04-04T15:27:00Z PUT /sample/3/item/87 429 3219"}
 {"expected_error": true, "id": "synthetic-log-0088", "input": "2013-05-05T16:28:00Z DELETE /sample/4/item/88 999 3256"}
 {"expected_error": true, "id": "synthetic-log-0089", "input": "2013-06-06T17:29:00Z HEAD /sample/5/item/89 503 -2"}
+{"expected_error": true, "id": "synthetic-log-0090", "input": "2013-07-07T18:30:00Z get /sample/6/item/90 200 3330"}
