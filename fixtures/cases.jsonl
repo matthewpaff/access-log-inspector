@@ -90,3 +90,4 @@
 {"expected_error": true, "id": "synthetic-log-0089", "input": "2013-06-06T17:29:00Z HEAD /sample/5/item/89 503 -2"}
 {"expected_error": true, "id": "synthetic-log-0090", "input": "2013-07-07T18:30:00Z get /sample/6/item/90 200 3330"}
 {"expected_error": true, "id": "synthetic-log-0091", "input": "not-a-date POST /sample/0/item/91 201 3367"}
+{"expected_error": true, "id": "synthetic-log-0092", "input": "2013-09-09T20:32:00Z PUT not-a-path 204 3404"}
