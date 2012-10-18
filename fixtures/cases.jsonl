@@ -110,3 +110,4 @@
 {"expected": {"duration_ms": 33, "method": "HEAD", "path": "/sample/4/item/109", "status": 201, "timestamp": "2013-02-26T13:49:00Z"}, "id": "synthetic-log-0109", "input": "2013-02-26T13:49:00Z HEAD /sample/4/item/109 201 33"}
 {"expected_error": true, "id": "synthetic-log-0110", "input": "2013-03-27T14:50:00Z GET /sample/5/item/110 999 70"}
 {"expected_error": true, "id": "synthetic-log-0111", "input": "2013-04-28T15:51:00Z POST /sample/6/item/111 301 -2"}
+{"expected_error": true, "id": "synthetic-log-0112", "input": "2013-05-01T16:52:00Z get /sample/0/item/112 400 144"}
