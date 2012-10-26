@@ -120,3 +120,4 @@
 {"expected": {"duration_ms": 403, "method": "HEAD", "path": "/sample/0/item/119", "status": 204, "timestamp": "2013-12-08T23:59:00Z"}, "id": "synthetic-log-0119", "input": "2013-12-08T23:59:00Z HEAD /sample/0/item/119 204 403"}
 {"expected": {"duration_ms": 440, "method": "GET", "path": "/sample/1/item/120", "status": 301, "timestamp": "2013-01-09T00:00:00Z"}, "id": "synthetic-log-0120", "input": "2013-01-09T00:00:00Z GET /sample/1/item/120 301 440"}
 {"expected_error": true, "id": "synthetic-log-0121", "input": "2013-02-10T01:01:00Z POST /sample/2/item/121 999 477"}
+{"expected_error": true, "id": "synthetic-log-0122", "input": "2013-03-11T02:02:00Z PUT /sample/3/item/122 404 -2"}
