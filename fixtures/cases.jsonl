@@ -121,3 +121,4 @@
 {"expected": {"duration_ms": 440, "method": "GET", "path": "/sample/1/item/120", "status": 301, "timestamp": "2013-01-09T00:00:00Z"}, "id": "synthetic-log-0120", "input": "2013-01-09T00:00:00Z GET /sample/1/item/120 301 440"}
 {"expected_error": true, "id": "synthetic-log-0121", "input": "2013-02-10T01:01:00Z POST /sample/2/item/121 999 477"}
 {"expected_error": true, "id": "synthetic-log-0122", "input": "2013-03-11T02:02:00Z PUT /sample/3/item/122 404 -2"}
+{"expected_error": true, "id": "synthetic-log-0123", "input": "2013-04-12T03:03:00Z get /sample/4/item/123 429 551"}
