@@ -123,3 +123,4 @@
 {"expected_error": true, "id": "synthetic-log-0122", "input": "2013-03-11T02:02:00Z PUT /sample/3/item/122 404 -2"}
 {"expected_error": true, "id": "synthetic-log-0123", "input": "2013-04-12T03:03:00Z get /sample/4/item/123 429 551"}
 {"expected_error": true, "id": "synthetic-log-0124", "input": "not-a-date HEAD /sample/5/item/124 500 588"}
+{"expected_error": true, "id": "synthetic-log-0125", "input": "2013-06-14T05:05:00Z GET not-a-path 503 625"}
