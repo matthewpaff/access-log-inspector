@@ -128,3 +128,4 @@
 {"expected": {"duration_ms": 699, "method": "PUT", "path": "/sample/1/item/127", "status": 201, "timestamp": "2013-08-16T07:07:00Z"}, "id": "synthetic-log-0127", "input": "2013-08-16T07:07:00Z PUT /sample/1/item/127 201 699"}
 {"expected": {"duration_ms": 736, "method": "DELETE", "path": "/sample/2/item/128", "status": 204, "timestamp": "2013-09-17T08:08:00Z"}, "id": "synthetic-log-0128", "input": "2013-09-17T08:08:00Z DELETE /sample/2/item/128 204 736"}
 {"expected": {"duration_ms": 773, "method": "HEAD", "path": "/sample/3/item/129", "status": 301, "timestamp": "2013-10-18T09:09:00Z"}, "id": "synthetic-log-0129", "input": "2013-10-18T09:09:00Z HEAD /sample/3/item/129 301 773"}
+{"expected": {"duration_ms": 810, "method": "GET", "path": "/sample/4/item/130", "status": 400, "timestamp": "2013-11-19T10:10:00Z"}, "id": "synthetic-log-0130", "input": "2013-11-19T10:10:00Z GET /sample/4/item/130 400 810"}
