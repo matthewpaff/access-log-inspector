@@ -132,3 +132,4 @@
 {"expected": {"duration_ms": 847, "method": "POST", "path": "/sample/5/item/131", "status": 404, "timestamp": "2013-12-20T11:11:00Z"}, "id": "synthetic-log-0131", "input": "2013-12-20T11:11:00Z POST /sample/5/item/131 404 847"}
 {"expected_error": true, "id": "synthetic-log-0132", "input": "2013-01-21T12:12:00Z PUT /sample/6/item/132 999 884"}
 {"expected_error": true, "id": "synthetic-log-0133", "input": "2013-02-22T13:13:00Z DELETE /sample/0/item/133 500 -2"}
+{"expected_error": true, "id": "synthetic-log-0134", "input": "2013-03-23T14:14:00Z get /sample/1/item/134 503 958"}
