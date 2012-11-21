@@ -139,3 +139,4 @@
 {"expected": {"duration_ms": 1106, "method": "DELETE", "path": "/sample/5/item/138", "status": 301, "timestamp": "2013-07-27T18:18:00Z"}, "id": "synthetic-log-0138", "input": "2013-07-27T18:18:00Z DELETE /sample/5/item/138 301 1106"}
 {"expected": {"duration_ms": 1143, "method": "HEAD", "path": "/sample/6/item/139", "status": 400, "timestamp": "2013-08-28T19:19:00Z"}, "id": "synthetic-log-0139", "input": "2013-08-28T19:19:00Z HEAD /sample/6/item/139 400 1143"}
 {"expected": {"duration_ms": 1180, "method": "GET", "path": "/sample/0/item/140", "status": 404, "timestamp": "2013-09-01T20:20:00Z"}, "id": "synthetic-log-0140", "input": "2013-09-01T20:20:00Z GET /sample/0/item/140 404 1180"}
+{"expected": {"duration_ms": 1217, "method": "POST", "path": "/sample/1/item/141", "status": 429, "timestamp": "2013-10-02T21:21:00Z"}, "id": "synthetic-log-0141", "input": "2013-10-02T21:21:00Z POST /sample/1/item/141 429 1217"}
