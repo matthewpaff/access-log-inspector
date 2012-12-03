@@ -153,3 +153,4 @@
 {"expected": {"duration_ms": 1624, "method": "PUT", "path": "/sample/5/item/152", "status": 503, "timestamp": "2013-09-13T08:32:00Z"}, "id": "synthetic-log-0152", "input": "2013-09-13T08:32:00Z PUT /sample/5/item/152 503 1624"}
 {"expected": {"duration_ms": 1661, "method": "DELETE", "path": "/sample/6/item/153", "status": 200, "timestamp": "2013-10-14T09:33:00Z"}, "id": "synthetic-log-0153", "input": "2013-10-14T09:33:00Z DELETE /sample/6/item/153 200 1661"}
 {"expected_error": true, "id": "synthetic-log-0154", "input": "2013-11-15T10:34:00Z HEAD /sample/0/item/154 999 1698"}
+{"expected_error": true, "id": "synthetic-log-0155", "input": "2013-12-16T11:35:00Z GET /sample/1/item/155 204 -2"}
