@@ -159,3 +159,4 @@
 {"expected_error": true, "id": "synthetic-log-0158", "input": "2013-03-19T14:38:00Z DELETE not-a-path 404 1846"}
 {"expected_error": true, "id": "synthetic-log-0159", "input": "2013-04-20T15:39:00Z HEAD /sample/5/item/159 429 1883 extra-field"}
 {"expected": {"duration_ms": 1920, "method": "GET", "path": "/sample/6/item/160", "status": 500, "timestamp": "2013-05-21T16:40:00Z"}, "id": "synthetic-log-0160", "input": "2013-05-21T16:40:00Z GET /sample/6/item/160 500 1920"}
+{"expected": {"duration_ms": 1957, "method": "POST", "path": "/sample/0/item/161", "status": 503, "timestamp": "2013-06-22T17:41:00Z"}, "id": "synthetic-log-0161", "input": "2013-06-22T17:41:00Z POST /sample/0/item/161 503 1957"}
