@@ -165,3 +165,4 @@
 {"expected": {"duration_ms": 2068, "method": "HEAD", "path": "/sample/3/item/164", "status": 204, "timestamp": "2013-09-25T20:44:00Z"}, "id": "synthetic-log-0164", "input": "2013-09-25T20:44:00Z HEAD /sample/3/item/164 204 2068"}
 {"expected_error": true, "id": "synthetic-log-0165", "input": "2013-10-26T21:45:00Z GET /sample/4/item/165 999 2105"}
 {"expected_error": true, "id": "synthetic-log-0166", "input": "2013-11-27T22:46:00Z POST /sample/5/item/166 400 -2"}
+{"expected_error": true, "id": "synthetic-log-0167", "input": "2013-12-28T23:47:00Z get /sample/6/item/167 404 2179"}
