@@ -168,3 +168,4 @@
 {"expected_error": true, "id": "synthetic-log-0167", "input": "2013-12-28T23:47:00Z get /sample/6/item/167 404 2179"}
 {"expected_error": true, "id": "synthetic-log-0168", "input": "not-a-date DELETE /sample/0/item/168 429 2216"}
 {"expected_error": true, "id": "synthetic-log-0169", "input": "2013-02-02T01:49:00Z HEAD not-a-path 500 2253"}
+{"expected_error": true, "id": "synthetic-log-0170", "input": "2013-03-03T02:50:00Z GET /sample/2/item/170 503 2290 extra-field"}
