@@ -179,3 +179,4 @@
 {"expected_error": true, "id": "synthetic-log-0178", "input": "2013-11-11T10:58:00Z get /sample/3/item/178 500 2586"}
 {"expected_error": true, "id": "synthetic-log-0179", "input": "not-a-date HEAD /sample/4/item/179 503 2623"}
 {"expected_error": true, "id": "synthetic-log-0180", "input": "2013-01-13T12:00:00Z GET not-a-path 200 2660"}
+{"expected_error": true, "id": "synthetic-log-0181", "input": "2013-02-14T13:01:00Z POST /sample/6/item/181 201 2697 extra-field"}
