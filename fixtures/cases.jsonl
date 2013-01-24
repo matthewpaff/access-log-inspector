@@ -191,3 +191,4 @@
 {"expected_error": true, "id": "synthetic-log-0190", "input": "not-a-date GET /sample/1/item/190 201 3030"}
 {"expected_error": true, "id": "synthetic-log-0191", "input": "2013-12-24T23:11:00Z POST not-a-path 204 3067"}
 {"expected_error": true, "id": "synthetic-log-0192", "input": "2013-01-25T00:12:00Z PUT /sample/3/item/192 301 3104 extra-field"}
+{"expected": {"duration_ms": 3141, "method": "DELETE", "path": "/sample/4/item/193", "status": 400, "timestamp": "2013-02-26T01:13:00Z"}, "id": "synthetic-log-0193", "input": "2013-02-26T01:13:00Z DELETE /sample/4/item/193 400 3141"}
