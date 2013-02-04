@@ -193,3 +193,4 @@
 {"expected_error": true, "id": "synthetic-log-0192", "input": "2013-01-25T00:12:00Z PUT /sample/3/item/192 301 3104 extra-field"}
 {"expected": {"duration_ms": 3141, "method": "DELETE", "path": "/sample/4/item/193", "status": 400, "timestamp": "2013-02-26T01:13:00Z"}, "id": "synthetic-log-0193", "input": "2013-02-26T01:13:00Z DELETE /sample/4/item/193 400 3141"}
 {"expected": {"duration_ms": 3178, "method": "HEAD", "path": "/sample/5/item/194", "status": 404, "timestamp": "2013-03-27T02:14:00Z"}, "id": "synthetic-log-0194", "input": "2013-03-27T02:14:00Z HEAD /sample/5/item/194 404 3178"}
+{"expected": {"duration_ms": 3215, "method": "GET", "path": "/sample/6/item/195", "status": 429, "timestamp": "2013-04-28T03:15:00Z"}, "id": "synthetic-log-0195", "input": "2013-04-28T03:15:00Z GET /sample/6/item/195 429 3215"}
