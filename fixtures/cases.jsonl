@@ -210,3 +210,4 @@
 {"expected_error": true, "id": "synthetic-log-0209", "input": "2013-06-14T17:29:00Z HEAD /sample/6/item/209 999 3733"}
 {"expected_error": true, "id": "synthetic-log-0210", "input": "2013-07-15T18:30:00Z GET /sample/0/item/210 301 -2"}
 {"expected_error": true, "id": "synthetic-log-0211", "input": "2013-08-16T19:31:00Z get /sample/1/item/211 400 3807"}
+{"expected_error": true, "id": "synthetic-log-0212", "input": "not-a-date PUT /sample/2/item/212 404 3844"}
