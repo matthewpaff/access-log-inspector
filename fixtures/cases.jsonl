@@ -217,3 +217,4 @@
 {"expected": {"duration_ms": 3992, "method": "POST", "path": "/sample/6/item/216", "status": 200, "timestamp": "2013-01-21T00:36:00Z"}, "id": "synthetic-log-0216", "input": "2013-01-21T00:36:00Z POST /sample/6/item/216 200 3992"}
 {"expected": {"duration_ms": 29, "method": "PUT", "path": "/sample/0/item/217", "status": 201, "timestamp": "2013-02-22T01:37:00Z"}, "id": "synthetic-log-0217", "input": "2013-02-22T01:37:00Z PUT /sample/0/item/217 201 29"}
 {"expected": {"duration_ms": 66, "method": "DELETE", "path": "/sample/1/item/218", "status": 204, "timestamp": "2013-03-23T02:38:00Z"}, "id": "synthetic-log-0218", "input": "2013-03-23T02:38:00Z DELETE /sample/1/item/218 204 66"}
+{"expected": {"duration_ms": 103, "method": "HEAD", "path": "/sample/2/item/219", "status": 301, "timestamp": "2013-04-24T03:39:00Z"}, "id": "synthetic-log-0219", "input": "2013-04-24T03:39:00Z HEAD /sample/2/item/219 301 103"}
