@@ -219,3 +219,4 @@
 {"expected": {"duration_ms": 66, "method": "DELETE", "path": "/sample/1/item/218", "status": 204, "timestamp": "2013-03-23T02:38:00Z"}, "id": "synthetic-log-0218", "input": "2013-03-23T02:38:00Z DELETE /sample/1/item/218 204 66"}
 {"expected": {"duration_ms": 103, "method": "HEAD", "path": "/sample/2/item/219", "status": 301, "timestamp": "2013-04-24T03:39:00Z"}, "id": "synthetic-log-0219", "input": "2013-04-24T03:39:00Z HEAD /sample/2/item/219 301 103"}
 {"expected_error": true, "id": "synthetic-log-0220", "input": "2013-05-25T04:40:00Z GET /sample/3/item/220 999 140"}
+{"expected_error": true, "id": "synthetic-log-0221", "input": "2013-06-26T05:41:00Z POST /sample/4/item/221 404 -2"}
