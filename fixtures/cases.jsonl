@@ -220,3 +220,4 @@
 {"expected": {"duration_ms": 103, "method": "HEAD", "path": "/sample/2/item/219", "status": 301, "timestamp": "2013-04-24T03:39:00Z"}, "id": "synthetic-log-0219", "input": "2013-04-24T03:39:00Z HEAD /sample/2/item/219 301 103"}
 {"expected_error": true, "id": "synthetic-log-0220", "input": "2013-05-25T04:40:00Z GET /sample/3/item/220 999 140"}
 {"expected_error": true, "id": "synthetic-log-0221", "input": "2013-06-26T05:41:00Z POST /sample/4/item/221 404 -2"}
+{"expected_error": true, "id": "synthetic-log-0222", "input": "2013-07-27T06:42:00Z get /sample/5/item/222 429 214"}
