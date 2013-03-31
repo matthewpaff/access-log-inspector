@@ -222,3 +222,4 @@
 {"expected_error": true, "id": "synthetic-log-0221", "input": "2013-06-26T05:41:00Z POST /sample/4/item/221 404 -2"}
 {"expected_error": true, "id": "synthetic-log-0222", "input": "2013-07-27T06:42:00Z get /sample/5/item/222 429 214"}
 {"expected_error": true, "id": "synthetic-log-0223", "input": "not-a-date DELETE /sample/6/item/223 500 251"}
+{"expected_error": true, "id": "synthetic-log-0224", "input": "2013-09-01T08:44:00Z HEAD not-a-path 503 288"}
