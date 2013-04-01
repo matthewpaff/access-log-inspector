@@ -224,3 +224,4 @@
 {"expected_error": true, "id": "synthetic-log-0223", "input": "not-a-date DELETE /sample/6/item/223 500 251"}
 {"expected_error": true, "id": "synthetic-log-0224", "input": "2013-09-01T08:44:00Z HEAD not-a-path 503 288"}
 {"expected_error": true, "id": "synthetic-log-0225", "input": "2013-10-02T09:45:00Z GET /sample/1/item/225 200 325 extra-field"}
+{"expected": {"duration_ms": 362, "method": "POST", "path": "/sample/2/item/226", "status": 201, "timestamp": "2013-11-03T10:46:00Z"}, "id": "synthetic-log-0226", "input": "2013-11-03T10:46:00Z POST /sample/2/item/226 201 362"}
