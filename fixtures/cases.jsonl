@@ -225,3 +225,4 @@
 {"expected_error": true, "id": "synthetic-log-0224", "input": "2013-09-01T08:44:00Z HEAD not-a-path 503 288"}
 {"expected_error": true, "id": "synthetic-log-0225", "input": "2013-10-02T09:45:00Z GET /sample/1/item/225 200 325 extra-field"}
 {"expected": {"duration_ms": 362, "method": "POST", "path": "/sample/2/item/226", "status": 201, "timestamp": "2013-11-03T10:46:00Z"}, "id": "synthetic-log-0226", "input": "2013-11-03T10:46:00Z POST /sample/2/item/226 201 362"}
+{"expected": {"duration_ms": 399, "method": "PUT", "path": "/sample/3/item/227", "status": 204, "timestamp": "2013-12-04T11:47:00Z"}, "id": "synthetic-log-0227", "input": "2013-12-04T11:47:00Z PUT /sample/3/item/227 204 399"}
