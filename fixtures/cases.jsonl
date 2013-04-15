@@ -232,3 +232,4 @@
 {"expected_error": true, "id": "synthetic-log-0231", "input": "2013-04-08T15:51:00Z POST /sample/0/item/231 999 547"}
 {"expected_error": true, "id": "synthetic-log-0232", "input": "2013-05-09T16:52:00Z PUT /sample/1/item/232 500 -2"}
 {"expected_error": true, "id": "synthetic-log-0233", "input": "2013-06-10T17:53:00Z get /sample/2/item/233 503 621"}
+{"expected_error": true, "id": "synthetic-log-0234", "input": "not-a-date HEAD /sample/3/item/234 200 658"}
