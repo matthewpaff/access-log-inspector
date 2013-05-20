@@ -250,3 +250,4 @@
 {"expected": {"duration_ms": 1213, "method": "HEAD", "path": "/sample/4/item/249", "status": 429, "timestamp": "2013-10-26T09:09:00Z"}, "id": "synthetic-log-0249", "input": "2013-10-26T09:09:00Z HEAD /sample/4/item/249 429 1213"}
 {"expected": {"duration_ms": 1250, "method": "GET", "path": "/sample/5/item/250", "status": 500, "timestamp": "2013-11-27T10:10:00Z"}, "id": "synthetic-log-0250", "input": "2013-11-27T10:10:00Z GET /sample/5/item/250 500 1250"}
 {"expected": {"duration_ms": 1287, "method": "POST", "path": "/sample/6/item/251", "status": 503, "timestamp": "2013-12-28T11:11:00Z"}, "id": "synthetic-log-0251", "input": "2013-12-28T11:11:00Z POST /sample/6/item/251 503 1287"}
+{"expected": {"duration_ms": 1324, "method": "PUT", "path": "/sample/0/item/252", "status": 200, "timestamp": "2013-01-01T12:12:00Z"}, "id": "synthetic-log-0252", "input": "2013-01-01T12:12:00Z PUT /sample/0/item/252 200 1324"}
