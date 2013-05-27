@@ -252,3 +252,4 @@
 {"expected": {"duration_ms": 1287, "method": "POST", "path": "/sample/6/item/251", "status": 503, "timestamp": "2013-12-28T11:11:00Z"}, "id": "synthetic-log-0251", "input": "2013-12-28T11:11:00Z POST /sample/6/item/251 503 1287"}
 {"expected": {"duration_ms": 1324, "method": "PUT", "path": "/sample/0/item/252", "status": 200, "timestamp": "2013-01-01T12:12:00Z"}, "id": "synthetic-log-0252", "input": "2013-01-01T12:12:00Z PUT /sample/0/item/252 200 1324"}
 {"expected_error": true, "id": "synthetic-log-0253", "input": "2013-02-02T13:13:00Z DELETE /sample/1/item/253 999 1361"}
+{"expected_error": true, "id": "synthetic-log-0254", "input": "2013-03-03T14:14:00Z HEAD /sample/2/item/254 204 -2"}
