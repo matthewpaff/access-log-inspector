@@ -255,3 +255,4 @@
 {"expected_error": true, "id": "synthetic-log-0254", "input": "2013-03-03T14:14:00Z HEAD /sample/2/item/254 204 -2"}
 {"expected_error": true, "id": "synthetic-log-0255", "input": "2013-04-04T15:15:00Z get /sample/3/item/255 301 1435"}
 {"expected_error": true, "id": "synthetic-log-0256", "input": "not-a-date POST /sample/4/item/256 400 1472"}
+{"expected_error": true, "id": "synthetic-log-0257", "input": "2013-06-06T17:17:00Z PUT not-a-path 404 1509"}
