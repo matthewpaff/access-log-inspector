@@ -266,3 +266,4 @@
 {"expected_error": true, "id": "synthetic-log-0265", "input": "2013-02-14T01:25:00Z GET /sample/6/item/265 400 -2"}
 {"expected_error": true, "id": "synthetic-log-0266", "input": "2013-03-15T02:26:00Z get /sample/0/item/266 404 1842"}
 {"expected_error": true, "id": "synthetic-log-0267", "input": "not-a-date PUT /sample/1/item/267 429 1879"}
+{"expected_error": true, "id": "synthetic-log-0268", "input": "2013-05-17T04:28:00Z DELETE not-a-path 500 1916"}
