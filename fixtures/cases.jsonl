@@ -269,3 +269,4 @@
 {"expected_error": true, "id": "synthetic-log-0268", "input": "2013-05-17T04:28:00Z DELETE not-a-path 500 1916"}
 {"expected_error": true, "id": "synthetic-log-0269", "input": "2013-06-18T05:29:00Z HEAD /sample/3/item/269 503 1953 extra-field"}
 {"expected": {"duration_ms": 1990, "method": "GET", "path": "/sample/4/item/270", "status": 200, "timestamp": "2013-07-19T06:30:00Z"}, "id": "synthetic-log-0270", "input": "2013-07-19T06:30:00Z GET /sample/4/item/270 200 1990"}
+{"expected": {"duration_ms": 2027, "method": "POST", "path": "/sample/5/item/271", "status": 201, "timestamp": "2013-08-20T07:31:00Z"}, "id": "synthetic-log-0271", "input": "2013-08-20T07:31:00Z POST /sample/5/item/271 201 2027"}
