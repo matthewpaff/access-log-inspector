@@ -275,3 +275,4 @@
 {"expected": {"duration_ms": 2138, "method": "HEAD", "path": "/sample/1/item/274", "status": 400, "timestamp": "2013-11-23T10:34:00Z"}, "id": "synthetic-log-0274", "input": "2013-11-23T10:34:00Z HEAD /sample/1/item/274 400 2138"}
 {"expected_error": true, "id": "synthetic-log-0275", "input": "2013-12-24T11:35:00Z GET /sample/2/item/275 999 2175"}
 {"expected_error": true, "id": "synthetic-log-0276", "input": "2013-01-25T12:36:00Z POST /sample/3/item/276 429 -2"}
+{"expected_error": true, "id": "synthetic-log-0277", "input": "2013-02-26T13:37:00Z get /sample/4/item/277 500 2249"}
