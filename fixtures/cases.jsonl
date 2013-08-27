@@ -297,3 +297,4 @@
 {"expected": {"duration_ms": 2952, "method": "POST", "path": "/sample/2/item/296", "status": 503, "timestamp": "2013-09-17T08:56:00Z"}, "id": "synthetic-log-0296", "input": "2013-09-17T08:56:00Z POST /sample/2/item/296 503 2952"}
 {"expected_error": true, "id": "synthetic-log-0297", "input": "2013-10-18T09:57:00Z PUT /sample/3/item/297 999 2989"}
 {"expected_error": true, "id": "synthetic-log-0298", "input": "2013-11-19T10:58:00Z DELETE /sample/4/item/298 201 -2"}
+{"expected_error": true, "id": "synthetic-log-0299", "input": "2013-12-20T11:59:00Z get /sample/5/item/299 204 3063"}
