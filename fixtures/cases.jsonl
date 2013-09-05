@@ -302,3 +302,4 @@
 {"expected_error": true, "id": "synthetic-log-0301", "input": "2013-02-22T13:01:00Z POST not-a-path 400 3137"}
 {"expected_error": true, "id": "synthetic-log-0302", "input": "2013-03-23T14:02:00Z PUT /sample/1/item/302 404 3174 extra-field"}
 {"expected": {"duration_ms": 3211, "method": "DELETE", "path": "/sample/2/item/303", "status": 429, "timestamp": "2013-04-24T15:03:00Z"}, "id": "synthetic-log-0303", "input": "2013-04-24T15:03:00Z DELETE /sample/2/item/303 429 3211"}
+{"expected": {"duration_ms": 3248, "method": "HEAD", "path": "/sample/3/item/304", "status": 500, "timestamp": "2013-05-25T16:04:00Z"}, "id": "synthetic-log-0304", "input": "2013-05-25T16:04:00Z HEAD /sample/3/item/304 500 3248"}
