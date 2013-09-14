@@ -309,3 +309,4 @@
 {"expected_error": true, "id": "synthetic-log-0308", "input": "2013-09-01T20:08:00Z DELETE /sample/0/item/308 999 3396"}
 {"expected_error": true, "id": "synthetic-log-0309", "input": "2013-10-02T21:09:00Z HEAD /sample/1/item/309 301 -2"}
 {"expected_error": true, "id": "synthetic-log-0310", "input": "2013-11-03T22:10:00Z get /sample/2/item/310 400 3470"}
+{"expected_error": true, "id": "synthetic-log-0311", "input": "not-a-date POST /sample/3/item/311 404 3507"}
