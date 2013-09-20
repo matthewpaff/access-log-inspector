@@ -315,3 +315,4 @@
 {"expected": {"duration_ms": 3618, "method": "HEAD", "path": "/sample/6/item/314", "status": 503, "timestamp": "2013-03-07T02:14:00Z"}, "id": "synthetic-log-0314", "input": "2013-03-07T02:14:00Z HEAD /sample/6/item/314 503 3618"}
 {"expected": {"duration_ms": 3655, "method": "GET", "path": "/sample/0/item/315", "status": 200, "timestamp": "2013-04-08T03:15:00Z"}, "id": "synthetic-log-0315", "input": "2013-04-08T03:15:00Z GET /sample/0/item/315 200 3655"}
 {"expected": {"duration_ms": 3692, "method": "POST", "path": "/sample/1/item/316", "status": 201, "timestamp": "2013-05-09T04:16:00Z"}, "id": "synthetic-log-0316", "input": "2013-05-09T04:16:00Z POST /sample/1/item/316 201 3692"}
+{"expected": {"duration_ms": 3729, "method": "PUT", "path": "/sample/2/item/317", "status": 204, "timestamp": "2013-06-10T05:17:00Z"}, "id": "synthetic-log-0317", "input": "2013-06-10T05:17:00Z PUT /sample/2/item/317 204 3729"}
