@@ -345,3 +345,4 @@
 {"expected_error": true, "id": "synthetic-log-0344", "input": "not-a-date HEAD /sample/1/item/344 204 728"}
 {"expected_error": true, "id": "synthetic-log-0345", "input": "2013-10-10T09:45:00Z GET not-a-path 301 765"}
 {"expected_error": true, "id": "synthetic-log-0346", "input": "2013-11-11T10:46:00Z POST /sample/3/item/346 400 802 extra-field"}
+{"expected": {"duration_ms": 839, "method": "PUT", "path": "/sample/4/item/347", "status": 404, "timestamp": "2013-12-12T11:47:00Z"}, "id": "synthetic-log-0347", "input": "2013-12-12T11:47:00Z PUT /sample/4/item/347 404 839"}
