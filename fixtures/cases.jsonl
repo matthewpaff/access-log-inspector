@@ -346,3 +346,4 @@
 {"expected_error": true, "id": "synthetic-log-0345", "input": "2013-10-10T09:45:00Z GET not-a-path 301 765"}
 {"expected_error": true, "id": "synthetic-log-0346", "input": "2013-11-11T10:46:00Z POST /sample/3/item/346 400 802 extra-field"}
 {"expected": {"duration_ms": 839, "method": "PUT", "path": "/sample/4/item/347", "status": 404, "timestamp": "2013-12-12T11:47:00Z"}, "id": "synthetic-log-0347", "input": "2013-12-12T11:47:00Z PUT /sample/4/item/347 404 839"}
+{"expected": {"duration_ms": 876, "method": "DELETE", "path": "/sample/5/item/348", "status": 429, "timestamp": "2013-01-13T12:48:00Z"}, "id": "synthetic-log-0348", "input": "2013-01-13T12:48:00Z DELETE /sample/5/item/348 429 876"}
