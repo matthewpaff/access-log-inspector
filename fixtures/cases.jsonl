@@ -352,3 +352,4 @@
 {"expected": {"duration_ms": 987, "method": "POST", "path": "/sample/1/item/351", "status": 200, "timestamp": "2013-04-16T15:51:00Z"}, "id": "synthetic-log-0351", "input": "2013-04-16T15:51:00Z POST /sample/1/item/351 200 987"}
 {"expected_error": true, "id": "synthetic-log-0352", "input": "2013-05-17T16:52:00Z PUT /sample/2/item/352 999 1024"}
 {"expected_error": true, "id": "synthetic-log-0353", "input": "2013-06-18T17:53:00Z DELETE /sample/3/item/353 204 -2"}
+{"expected_error": true, "id": "synthetic-log-0354", "input": "2013-07-19T18:54:00Z get /sample/4/item/354 301 1098"}
