@@ -355,3 +355,4 @@
 {"expected_error": true, "id": "synthetic-log-0354", "input": "2013-07-19T18:54:00Z get /sample/4/item/354 301 1098"}
 {"expected_error": true, "id": "synthetic-log-0355", "input": "not-a-date GET /sample/5/item/355 400 1135"}
 {"expected_error": true, "id": "synthetic-log-0356", "input": "2013-09-21T20:56:00Z POST not-a-path 404 1172"}
+{"expected_error": true, "id": "synthetic-log-0357", "input": "2013-10-22T21:57:00Z PUT /sample/0/item/357 429 1209 extra-field"}
