@@ -363,3 +363,4 @@
 {"expected": {"duration_ms": 1394, "method": "PUT", "path": "/sample/5/item/362", "status": 204, "timestamp": "2013-03-27T02:02:00Z"}, "id": "synthetic-log-0362", "input": "2013-03-27T02:02:00Z PUT /sample/5/item/362 204 1394"}
 {"expected_error": true, "id": "synthetic-log-0363", "input": "2013-04-28T03:03:00Z DELETE /sample/6/item/363 999 1431"}
 {"expected_error": true, "id": "synthetic-log-0364", "input": "2013-05-01T04:04:00Z HEAD /sample/0/item/364 400 -2"}
+{"expected_error": true, "id": "synthetic-log-0365", "input": "2013-06-02T05:05:00Z get /sample/1/item/365 404 1505"}
